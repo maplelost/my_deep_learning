@@ -1,5 +1,5 @@
 # my_deep_learning
-```
+```mermaid
 journey
 	title Me studying for exams
 	section Exam is announced
